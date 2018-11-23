@@ -1,0 +1,9 @@
+D:\MyProject\Edu\Edu.Domain\bin\Debug\netcoreapp2.0\Edu.Domain.deps.json
+D:\MyProject\Edu\Edu.Domain\bin\Debug\netcoreapp2.0\Edu.Domain.dll
+D:\MyProject\Edu\Edu.Domain\bin\Debug\netcoreapp2.0\Edu.Domain.pdb
+D:\MyProject\Edu\Edu.Domain\obj\Debug\netcoreapp2.0\Edu.Domain.csproj.CoreCompileInputs.cache
+D:\MyProject\Edu\Edu.Domain\obj\Debug\netcoreapp2.0\Edu.Domain.AssemblyInfoInputs.cache
+D:\MyProject\Edu\Edu.Domain\obj\Debug\netcoreapp2.0\Edu.Domain.AssemblyInfo.cs
+D:\MyProject\Edu\Edu.Domain\obj\Debug\netcoreapp2.0\Edu.Domain.dll
+D:\MyProject\Edu\Edu.Domain\obj\Debug\netcoreapp2.0\Edu.Domain.pdb
+D:\MyProject\Edu\Edu.Domain\obj\Debug\netcoreapp2.0\Edu.Domain.csprojResolveAssemblyReference.cache

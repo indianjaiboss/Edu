@@ -1,0 +1,12 @@
+D:\MyProject\Edu\Edu.Interface\bin\Debug\netcoreapp2.0\Edu.Interface.deps.json
+D:\MyProject\Edu\Edu.Interface\bin\Debug\netcoreapp2.0\Edu.Interface.dll
+D:\MyProject\Edu\Edu.Interface\bin\Debug\netcoreapp2.0\Edu.Interface.pdb
+D:\MyProject\Edu\Edu.Interface\obj\Debug\netcoreapp2.0\Edu.Interface.csproj.CoreCompileInputs.cache
+D:\MyProject\Edu\Edu.Interface\obj\Debug\netcoreapp2.0\Edu.Interface.AssemblyInfoInputs.cache
+D:\MyProject\Edu\Edu.Interface\obj\Debug\netcoreapp2.0\Edu.Interface.AssemblyInfo.cs
+D:\MyProject\Edu\Edu.Interface\obj\Debug\netcoreapp2.0\Edu.Interface.dll
+D:\MyProject\Edu\Edu.Interface\obj\Debug\netcoreapp2.0\Edu.Interface.pdb
+D:\MyProject\Edu\Edu.Interface\obj\Debug\netcoreapp2.0\Edu.Interface.csprojResolveAssemblyReference.cache
+D:\MyProject\Edu\Edu.Interface\bin\Debug\netcoreapp2.0\Edu.Domain.dll
+D:\MyProject\Edu\Edu.Interface\bin\Debug\netcoreapp2.0\Edu.Domain.pdb
+D:\MyProject\Edu\Edu.Interface\obj\Debug\netcoreapp2.0\Edu.Interface.csproj.CopyComplete

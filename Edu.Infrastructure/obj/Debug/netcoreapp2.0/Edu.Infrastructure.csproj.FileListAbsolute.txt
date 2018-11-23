@@ -1,0 +1,11 @@
+D:\MyProject\Edu\Edu.Infrastructure\bin\Debug\netcoreapp2.0\Edu.Infrastructure.deps.json
+D:\MyProject\Edu\Edu.Infrastructure\bin\Debug\netcoreapp2.0\Edu.Infrastructure.dll
+D:\MyProject\Edu\Edu.Infrastructure\bin\Debug\netcoreapp2.0\Edu.Infrastructure.pdb
+D:\MyProject\Edu\Edu.Infrastructure\obj\Debug\netcoreapp2.0\Edu.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MyProject\Edu\Edu.Infrastructure\obj\Debug\netcoreapp2.0\Edu.Infrastructure.AssemblyInfoInputs.cache
+D:\MyProject\Edu\Edu.Infrastructure\obj\Debug\netcoreapp2.0\Edu.Infrastructure.AssemblyInfo.cs
+D:\MyProject\Edu\Edu.Infrastructure\obj\Debug\netcoreapp2.0\Edu.Infrastructure.dll
+D:\MyProject\Edu\Edu.Infrastructure\obj\Debug\netcoreapp2.0\Edu.Infrastructure.pdb
+D:\MyProject\Edu\Edu.Infrastructure\obj\Debug\netcoreapp2.0\Edu.Infrastructure.csprojResolveAssemblyReference.cache
+D:\MyProject\Edu\Edu.Infrastructure\bin\Debug\netcoreapp2.0\Edu.Infrastructure.runtimeconfig.json
+D:\MyProject\Edu\Edu.Infrastructure\bin\Debug\netcoreapp2.0\Edu.Infrastructure.runtimeconfig.dev.json
